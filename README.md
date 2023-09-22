@@ -1,6 +1,7 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />, I'm <a href="https://www.linkedin.com/in/ali-memon-1024711bb/" rel="nofollow">Ali!</a>
+# Hey 👋, I'm [Ali!](https://www.linkedin.com/in/ali-memon-1024711bb/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alirmemon37&label=Profile%20views&color=0e75b6&style=flat" alt="jeelgajera" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alirmemon37&label=Profile%20views&color=0e75b6&style=flat" alt="alirmemon37 GitHub profile views" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/alir_memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alir_memon" height="30" width="40" /></a>
